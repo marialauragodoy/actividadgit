@@ -1,0 +1,117 @@
+#header{
+    background-image: url("../imagenes/header.jpg");
+	background-size:100% 100%;
+    background-repeat: no-repeat;
+}
+#titulo{
+    padding-top: 30%;
+    margin-left: 5%;
+    padding-bottom: 3%;
+    color: white;
+    position: static;
+    bottom: 5px;
+}
+#logo{
+    margin-left: 10%;
+    margin-top: 7%;
+}
+li{
+    margin-top: 10%;
+    margin-right: 10%;
+    color: white;
+}
+.subtitulo{
+    padding-top: 2%;
+    text-align: center;
+}
+#nosotros{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+    font-size: x-small;
+
+}
+.tarjeta{
+    border: 0px solid;
+}
+.imag{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top:5%;
+    padding-bottom: 5%;
+    width: 100px;
+    height: 100px;
+}
+#ventas{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.color{
+    padding-top: 5%;
+    padding-bottom: 2%;
+    background-color:whitesmoke
+}
+.boton{
+    background-color: darkorange;
+    color: white;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    width: 100%;
+    border: none;
+}
+.precio{
+    color:yellowgreen;
+}  
+.servicios{
+    height: 5%;
+    padding: 5%;
+}
+#mas{
+    float: right;
+    color:white;
+    background-color: yellowgreen;
+    border: none;
+    padding: 1%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+#desc{
+    padding-top: 15%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-bottom: 3%;
+    color: white;
+    position: static;
+}
+#h6{
+    padding-top: 5%;
+}
+#foot{
+    background-image: url("../imagenes/encuentra.jpg");
+	background-size:100% 100%;
+    background-repeat: no-repeat;
+}
+.abajo{
+    background-color:rgba(23, 24, 23, 0.925);
+    color: white;
+    padding-right: 5%;
+    padding-top: 3%;
+    padding-bottom: 2%;
+    padding-left: 5%;
+}
+#contacto{
+    margin-top: 2%;
+    background-color: darkorange;
+    color: white;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border: none;
+}
